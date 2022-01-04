@@ -1,0 +1,5 @@
+# welcome to this first program
+print("Tony Stark created the Arc Reactor inside a cave")
+a=5
+print(f'The value of a is: {a}')
+# program end

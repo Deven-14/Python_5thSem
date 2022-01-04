@@ -1,0 +1,10 @@
+what is your name?
+deven
+prakash
+paramaj
+omg
+what is your age?
+39
+29
+20
+15
